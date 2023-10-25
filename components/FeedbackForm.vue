@@ -5,6 +5,7 @@
       netlify-honeypot
       name="feedback"
       method="POST"
+      data-netlify="true"
       action="/success/"
     >
       <p class="hidden">
